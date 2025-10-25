@@ -1,0 +1,5 @@
+{
+  "name": "PC Builder Pro",
+  "description": "An intuitive application for building custom PCs using real-time component data from a Google Sheet. Select parts from various categories and see your total build cost update instantly.",
+  "requestFramePermissions": []
+}
